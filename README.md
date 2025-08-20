@@ -1,2 +1,0 @@
-# -
-Scrip - pptx - pdf
